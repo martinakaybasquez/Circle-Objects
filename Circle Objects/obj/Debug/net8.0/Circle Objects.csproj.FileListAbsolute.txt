@@ -12,3 +12,4 @@
 /Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Circle Objects/Circle Objects/obj/Debug/net8.0/Circle Objects.pdb
 /Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Circle Objects/Circle Objects/obj/Debug/net8.0/Circle Objects.genruntimeconfig.cache
 /Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Circle Objects/Circle Objects/obj/Debug/net8.0/ref/Circle Objects.dll
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Circle Objects/Circle Objects/obj/Debug/net8.0/Circle Objects.sourcelink.json
