@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circle Objects", "Circle Objects\Circle Objects.csproj", "{8283267A-5037-4DE5-B9AD-4F1785AEFCAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8283267A-5037-4DE5-B9AD-4F1785AEFCAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8283267A-5037-4DE5-B9AD-4F1785AEFCAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8283267A-5037-4DE5-B9AD-4F1785AEFCAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8283267A-5037-4DE5-B9AD-4F1785AEFCAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
